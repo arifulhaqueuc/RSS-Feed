@@ -1,5 +1,12 @@
 # RSS-Feed
 
+### Project Overview
+|  |  |
+| --- | --- |
+| Status | Phase 2 |
+| Development Timeline | Dec 2017 |
+
+
 
 ### Support / Found a bug?
 Here are the options
