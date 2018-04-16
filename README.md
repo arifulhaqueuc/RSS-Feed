@@ -2,7 +2,7 @@
 
 ```diff
 + This repo is in a stable phase at this time,
-+ no major update is planned until end of Feb 2018.
++ no major update is planned until end of April 2018.
 ```
 
 #### Last Update Info 
